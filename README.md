@@ -19,7 +19,7 @@ Although the app includes filter buttons for sorting tasks by status (all, activ
 Check out the live demo of the project [here](https://www.google.com).
 
 ## Screenshots
-![Screenshot 1](screenshot/screenshot1.png)
+![Screenshot 1](/screenshot/screenshot1.png)
 
 ## Acknowledgements
 - [React](https://reactjs.org/)
