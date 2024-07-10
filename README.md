@@ -24,7 +24,6 @@ Check out the live demo of the project [here](https://www.google.com).
 ## Acknowledgements
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Midudev](https://www.youtube.com/@midulive) - Special thanks to Midudev for the inspiration and educational content.
-
+- [Midudev](https://www.youtube.com/@midulive)
 
 
