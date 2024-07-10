@@ -1,7 +1,7 @@
 # Todo List App
 
 ## Introduction
-Welcome to the Todo List App! This is a simple yet powerful application built with React and TypeScript, designed to help you manage your tasks efficiently. 
+Welcome to the Todo List App! This is a simple yet powerful application built with React and TypeScript
 
 ## Features
 - **Add Tasks:** Quickly add new tasks to your list.
